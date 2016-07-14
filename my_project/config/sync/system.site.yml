@@ -1,0 +1,14 @@
+uuid: 48a9fe1c-e807-46a0-a385-200668e0920a
+name: d8
+mail: wouter.adem@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
