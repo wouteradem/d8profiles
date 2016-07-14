@@ -13,7 +13,7 @@
  * @see system_install()
  */
 
-function my_project_install() {
+function my_profile_install() {
   global $config_directories;
 
   $sync_directory = drupal_get_path('profile', 'my_profile') . '/config/sync';
